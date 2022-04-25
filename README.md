@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punmister
-- 👀 I’m interested in Data Science, Humor, Product Management
-- 🌱 I’m currently learning Product Management
+- 👀 I’m interested in Data Science, Humor
+- 🌱 I’m currently preparing for interviews
 - 💞️ I’m looking to collaborate on NLP Projects
 
 <!---
